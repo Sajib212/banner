@@ -1,0 +1,14 @@
+backports.functools-lru-cache==1.6.4
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2021.10.8
+chardet==4.0.0
+futures==3.4.0
+html5lib==1.1
+idna==2.10
+mechanize==0.4.8
+requests==2.27.1
+six==1.16.0
+soupsieve==1.9.6
+urllib3==1.26.14
+webencodings==0.5.1
